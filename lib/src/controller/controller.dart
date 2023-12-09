@@ -1,0 +1,1 @@
+export 'package:pet_other_palace/src/controller/onboarding_controller.dart';
