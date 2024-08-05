@@ -1,4 +1,4 @@
-# pet_other_palace
+# Dashboard_gyg
 # proyecto de panel para empresa comenzamos de a poco 
   !. registrar clientes
   2. registrar pagos
